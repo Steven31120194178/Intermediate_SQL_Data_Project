@@ -54,14 +54,14 @@
 
 
 ### The Low, Mid, High Values Comparison Line based on 25% and 75% of the total ltv
-![25% & 75% percentile line](Images_Folder\Percentile_Output.PNG)
+![25% & 75% percentile line](Images_Folder/Percentile_Output.PNG)
 
 
 ###  Categorize the total LTV (Adds up)
 🖥️ Query: [Q1 Different Value Total LTV](Q1_Different_Value_Total_LTV_Bonus.sql)  
 
 ## 📈 Visualization:
-![LTV Distrubution](Images_Folder\LTV_Distrubution.PNG)
+![LTV Distrubution](Images_Folder/LTV_Distrubution.PNG)
 
 ### 📊Key Observations:
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -74,7 +74,7 @@
 ### 2. Cohort Analysis
 🖥️ Query: [Q2 Cohort Analysis](Q2_Cohort_Analysis.sql)
 
-![Q2_Output](Images_Folder\Q2_Output.PNG)
+![Q2_Output](Images_Folder/Q2_Output.PNG)
 ## 📊 Graph Analysis
 ### 1. Total Revenue(1e7) vs. Total Customers by Cohort Year
 ### Observation:
@@ -117,7 +117,7 @@
 ### 3. Customer Retention
 🖥️ Query: [Q3 Customer Retention](Q3_Customer_Retention.sql)
 
-![Active_Churned_Graph](Images_Folder\Active_Churned_Output.PNG)
+![Active_Churned_Graph](Images_Folder/Active_Churned_Output.PNG)
 
 ## 📊 Graph Analysis: Active vs Churned Customers (2015–2023)
 ### 1. Overall Trend
