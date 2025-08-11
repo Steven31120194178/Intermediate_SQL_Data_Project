@@ -2,7 +2,8 @@
 ## Welcome to my Intermediate SQL Project!!! 
 
 ### For those already familiar with the fundamentals of SQL, this project serves as a transition into more advanced SQL concepts. It begins with setting up a database in Visual Studio Code, utilizing a connection to pgAdmin 4 for database management.
-### The datasets used in this analysis are sourced from Luke Barousse's Intermediate SQL Course, which offers structured data tables and comprehensive information designed to support SQL-based data analysis.
+The datasets used in this analysis are sourced from Luke Barousse's Intermediate SQL Course, which offers structured data tables and comprehensive information designed to support SQL-based data analysis.
+
 [(Luke Barousse Intermediate SQL Source)](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course)
 
 ### Let start with the QUERY Clauses of which we learned from the basics of SQL:
@@ -186,7 +187,7 @@ WHERE orderdate = first_purchase_date
 🖥️ Query: [Q4 Rankings](Q4_Rankings.sql) 
 
 ## A Brief Visualized Trend with the Total Order vs Total Customers
-![Total_Orders_Total_Customers](Images_Folder\Total_orders_Total_customers.PNG)
+![Total_Orders_Total_Customers](Images_Folder/Total_orders_Total_customers.PNG)
 
 ## Analysis 
 ### Parallel Growth Trend:
@@ -209,7 +210,7 @@ Although we had covered the CASE statement in the basics of SQL, I later realize
 🖥️ Query: [Q5 Case Statement](Q5_Case_Statement.sql)  
 
 ## Visualization
-![Q5_Pie_Chart](Images_Folder\Q5_Pie_Chart.PNG)
+![Q5_Pie_Chart](Images_Folder/Q5_Pie_Chart.PNG)
 
 
 ## Analysis:
